@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilabjasarkar123" alt="nilabjasarkar123" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter clone**
+- 🔭 I’m currently working on **My Start up Idea**
 
 - 🌱 I’m currently learning **Node js, next, React**
 
